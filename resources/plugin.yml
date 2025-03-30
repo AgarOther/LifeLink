@@ -2,4 +2,5 @@ name: LifeLink
 version: '1.1'
 main: me.eleo.lifelink.LifeLink
 api-version: '1.21'
-description: Lie la barre de vie de chaque joueur présent dans la partie. Utilisation libre de droit, pas besoin de me créditer (créé par AgarOther).
+author: AgarOther
+description: Lie la barre de vie de chaque joueur présent dans la partie. Utilisation libre de droit, pas besoin de me créditer.
